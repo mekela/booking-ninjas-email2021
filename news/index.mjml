@@ -1,0 +1,238 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Booking Ninjas Newsletter
+    </mj-title>
+    <mj-preview>
+      Booking Ninjas Newsletter
+    </mj-preview>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700" />
+    <mj-attributes>
+      <mj-all font-family="Open Sans, Arial, sans-serif" line-height="1.5" />
+    </mj-attributes>
+    <mj-style>
+      .header {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+        position: relative;
+        z-index: 1;
+      }
+
+      .link {
+        color: #0d5dbb;
+      }
+
+      .button {
+        border-radius: 0;
+      }
+
+      .social-item{
+          filter: grayscale(100%) brightness(110%);
+      }
+      .social-item:hover{
+          filter: grayscale(0%) brightness(110%);
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F2F2F2">
+    <!--header-->
+    <mj-section css-class="header" background-color="#fff" full-width="full-width" padding="0">
+      <mj-column width="100%">
+        <mj-image width="209px" src="https://via.placeholder.com/209x52"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--/header-->
+    <mj-section background-color="#DAEBFC" padding="26px 0 10px 0">
+      <mj-column width="600px">
+        <mj-image width="371px" src="https://via.placeholder.com/371x288"></mj-image>
+        <mj-text align="center" font-size="36px" color="#0d5dbb" font-weight="500">
+          Booking Ninjas Monthly Digest
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="10px 0">
+    </mj-section>
+    <mj-section background-color="#F9FCFF" border="1px solid #e6eef8" padding="15px 0">
+      <mj-column width="600px">
+        <mj-text align="center" font-size="18px" font-style="italic" color="#000000" font-weight="500">
+          “This is my life. This life I’m living is not a rehearsal for something else. The game is on, and I am the main character”.
+        </mj-text>
+        <mj-text align="center" font-size="18px" color="#000000" font-weight="500">
+          <b>Brian Tracy</b> in his book ‘No Excuses’.
+        </mj-text>
+        <mj-text align="center" font-size="16px" color="#000000" font-weight="500">
+          We’re going into the month with mad main character energy.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border-bottom="1px solid #ebebeb" padding="26px 0 10px 0">
+      <mj-column width="600px">
+        <mj-image width="516px" src="https://via.placeholder.com/516x290"></mj-image>
+        <mj-text align="center" font-size="18px" color="#000" font-weight="600">
+          This is a 5 minute swipe through of what we’ve been up to. We hope you enjoy it!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="15px 0">
+      <mj-column width="600px">
+        <mj-text align="center" font-size="30px" color="#000" font-weight="600">
+          Trending on the blog
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--news-->
+    <mj-section background-color="#F9FCFF" border-bottom="1px solid #ebebeb" padding="0px 0 10px 0">
+      <mj-column width="600px" padding="0">
+        <mj-image width="600px" padding="0" src="https://via.placeholder.com/600x300"></mj-image>
+        <mj-button color="#0d5dbb" text-decoration="underline" css-class="link" font-size="16px" background-color="transparent" href="http://www.placeholder.com">Property Maintenance essential for Higher rental profit</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="15px 0">
+    </mj-section>
+    <!--/news-->
+    <!--news-->
+    <mj-section background-color="#F9FCFF" border-bottom="1px solid #ebebeb" padding="0px 0 10px 0">
+      <mj-column width="600px" padding="0">
+        <mj-image width="600px" padding="0" src="https://via.placeholder.com/600x300"></mj-image>
+        <mj-button color="#0d5dbb" text-decoration="underline" css-class="link" font-size="16px" background-color="transparent" href="http://www.placeholder.com">How hotels and hostels can improve direct bookings</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="15px 0">
+    </mj-section>
+    <!--/news-->
+    <!--news-->
+    <mj-section background-color="#F9FCFF" border-bottom="1px solid #ebebeb" padding="0px 0 10px 0">
+      <mj-column width="600px" padding="0">
+        <mj-image width="600px" padding="0" src="https://via.placeholder.com/600x300"></mj-image>
+        <mj-button color="#0d5dbb" text-decoration="underline" css-class="link" font-size="16px" background-color="transparent" href="http://www.placeholder.com">8 Ways to improve hotel guest experience</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--/news-->
+    <mj-section background-color="#fff" padding="15px 0">
+      <mj-column width="600px">
+        <mj-text align="center" font-size="30px" color="#000" font-weight="600">
+          Links from around the web
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--links-->
+    <mj-section background-color="#fff" padding="7px 0">
+      <mj-column width="572px" border="1px solid #dfdfdf" background-color="#F9FCFF">
+        <mj-text align="left" font-size="16px" color="#242424" padding="15px" font-weight="600">
+          The Dilemma between Artificial Intelligence (AI) & Emotional Intelligence (EQ) in the Hospitality Industry!
+        </mj-text>
+        <mj-button align="left" inner-padding="0 15px 12px" padding="0" color="#0d5dbb" text-decoration="underline" css-class="link" font-size="16px" background-color="transparent" href="http://www.placeholder.com">Read more</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--/links-->
+    <!--links-->
+    <mj-section background-color="#fff" padding="7px 0">
+      <mj-column width="572px" border="1px solid #dfdfdf" background-color="#F9FCFF">
+        <mj-text align="left" font-size="16px" color="#242424" padding="15px" font-weight="600">
+          Seven predictions for 2022 travel
+        </mj-text>
+        <mj-button align="left" inner-padding="0 15px 12px" padding="0" color="#0d5dbb" text-decoration="underline" css-class="link" font-size="16px" background-color="transparent" href="http://www.placeholder.com">Read more</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--/links-->
+    <!--links-->
+    <mj-section background-color="#fff" padding="7px 0">
+      <mj-column width="572px" border="1px solid #dfdfdf" background-color="#F9FCFF">
+        <mj-text align="left" font-size="16px" color="#242424" padding="15px" font-weight="600">
+          Nutrition and Taste: Factors customers care about today
+        </mj-text>
+        <mj-button align="left" inner-padding="0 15px 12px" padding="0" color="#0d5dbb" text-decoration="underline" css-class="link" font-size="16px" background-color="transparent" href="http://www.placeholder.com">Read more</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--/links-->
+    <mj-section background-color="#fff" padding="15px 0" border-bottom="1px solid #ebebeb">
+    </mj-section>
+    <mj-section background-color="#fff" padding="15px 0">
+      <mj-column width="600px">
+        <mj-text align="center" font-size="30px" color="#000" font-weight="600">
+          Webinar Highlights
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--webinar-->
+    <mj-section background-color="#fff" border-bottom="1px solid #ebebeb" padding="0px 0 10px 0">
+      <mj-column width="600px" padding="0">
+        <mj-image width="600px" padding="0" src="https://via.placeholder.com/600x283"></mj-image>
+        <mj-button color="#fff" padding="15px" inner-padding="15px" background-color="#ffaa00" width="100%" border-radius="0" css-class="button" font-size="16px" href="http://www.placeholder.com">Building a Culture of Success</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="7px 0">
+    </mj-section>
+    <!--/webinar-->
+    <!--webinar-->
+    <mj-section background-color="#fff" border-bottom="1px solid #ebebeb" padding="0px 0 10px 0">
+      <mj-column width="600px" padding="0">
+        <mj-image width="600px" padding="0" src="https://via.placeholder.com/600x283"></mj-image>
+        <mj-button color="#fff" padding="15px" inner-padding="15px" background-color="#ffaa00" width="100%" border-radius="0" css-class="button" font-size="16px" href="http://www.placeholder.com">Keeping up with the Customers - in an era of changing expectations</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="7px 0">
+    </mj-section>
+    <!--/webinar-->
+    <!--webinar-->
+    <mj-section background-color="#fff" border-bottom="1px solid #ebebeb" padding="0px 0 10px 0">
+      <mj-column width="600px" padding="0">
+        <mj-image width="600px" padding="0" src="https://via.placeholder.com/600x283"></mj-image>
+        <mj-button color="#fff" padding="15px" inner-padding="15px" background-color="#ffaa00" width="100%" border-radius="0" css-class="button" font-size="16px" href="http://www.placeholder.com">Revenue Management - what it is & how our solution can help</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--/webinar-->
+    <mj-section background-color="#d3ebff" border-bottom="1px solid #ebebeb" padding="0">
+      <mj-column width="600px" padding="0">
+        <mj-image width="600px" padding="0" src="https://via.placeholder.com/600x491"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="25px 0 45px 0">
+      <mj-column width="600px">
+        <mj-text align="center" font-size="30px" color="#000" font-weight="600">
+          New Case Studies
+        </mj-text>
+        <mj-text align="center" font-size="16px" color="#2c2c2c" font-weight="400" padding="0 15px 20px 15px">
+          You know what they say, seeing is believing. Check out our highlight customer story of this month featuring Eleven Experience.
+        </mj-text>
+        <mj-image width="88px" padding="0" src="https://via.placeholder.com/88x88"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ecf0f2" padding="15px 0 0 0">
+      <mj-column width="45%">
+        <mj-image width="240px" padding="0" src="https://via.placeholder.com/240x240"></mj-image>
+      </mj-column>
+      <mj-column width="55%" vertical-align="middle">
+        <mj-image width="50px" align="left" src="https://via.placeholder.com/50x50"></mj-image>
+        <mj-text align="left" font-size="24px" color="#000" font-weight="600" padding-bottom="0">
+          Random unrelated fact
+        </mj-text>
+        <mj-text align="left" font-size="16px" font-style="italic" color="#2c2c2c" font-weight="400">
+          Humans are the only animals that blush.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--button-->
+    <mj-section background-color="#fff" padding="15px 0">
+      <mj-column width="600px" padding="0">
+        <mj-button color="#fff" padding="0 15px" inner-padding="15px 29px" background-color="#ffaa00" border-radius="0" css-class="button" font-size="16px" href="http://www.placeholder.com">Schedule a call with us today</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--/button-->
+    <!--footer-->
+    <mj-section background-color="#0a0906" border-bottom="1px solid #ebebeb" padding="0px">
+      <mj-column width="600px" padding="15px" background-color="#0a0906">
+        <mj-social font-size="15px" padding="0" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook-noshare" href="/" padding="0 8px" css-class="social-item"></mj-social-element>
+          <mj-social-element name="instagram-noshare" href="/" padding="0 8px" css-class="social-item"></mj-social-element>
+          <mj-social-element name="youtube-noshare" href="/" padding="0 8px" css-class="social-item"></mj-social-element>
+          <mj-social-element name="linkedin-noshare" href="/" padding="0 8px" css-class="social-item"></mj-social-element>
+          <mj-social-element name="twitter-noshare" href="/" padding="0 8px" css-class="social-item"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" font-size="16px" padding="20px 0 0 0" color="#fff" font-weight="400" text-transform="uppercase">
+          All rights reserved © 2021 - Booking Ninjas
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--/footer-->
+  </mj-body>
+</mjml>
